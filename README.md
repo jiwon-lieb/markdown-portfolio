@@ -1,4 +1,4 @@
-<h1 align="center">Justin Thoreson</h1>
+<h1 align="center">Jiwon Kwak</h1>
 <table>
   <tbody>
     <tr>
