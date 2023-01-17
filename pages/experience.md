@@ -31,7 +31,7 @@
   </tr>
   <tr>
     <td>
-      <b>Technical Writer/Translator</b> | Jan 2021 - Jam 2022<br />
+      <b>Technical Writer/Translator</b> | Jan 2021 - Jan 2022<br />
       Ground X<br />
       <ul>
         <li>Managed Klaytn Docs</li>
