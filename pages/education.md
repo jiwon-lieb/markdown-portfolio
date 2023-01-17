@@ -4,12 +4,11 @@
 <table>
   <tr>
     <td width="80%">
-      <b>Master of Science in Computer Science</b> | Anticipated June 2023<br />
-      Seattle University - Seattle, WA<br />
-      GPA: 4.0<br />
-      Graduate Representative - Seattle University ACM
+      <b>Master of Conference Interpretation and Translation</b> | 2018 - 2020 <br />
+      Hankuk University of Foreign Studies - Seoul, Korea<br />
+      GPA: 4.39
     </td>
-    <td><image alt="SU" src="../assets/images/su-logo.jpg" /></td>
+    <td><image alt="SU" src="../assets/images/hufs_logo.jpg" /></td>
   </tr>
   <tr>
     <td>
