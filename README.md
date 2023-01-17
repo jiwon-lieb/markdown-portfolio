@@ -21,7 +21,7 @@
         <ul>
           <li><a href="./pages/education.md">Education</a></li>
           <li><a href="./pages/experience.md">Experience</a></li>
-          <li><a href="./pages/projects.md">Projects</a></li>
+          <li><a href="./pages/samples-kr.md">Samples</a></li>
           <li><a href="./pages/qualifications.md">Skills & Qualifications</a></li>
         </ul>
       </td>
