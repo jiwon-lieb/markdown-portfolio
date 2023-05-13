@@ -40,6 +40,18 @@
 * By LinkedIn
 * Issued Jun 2021
 
+### Coding for Writers: Basic Programming
+* By Udemy
+* Issued May 2021
+
+### Learn API Technical Writing: JSON and XML for Writers
+* By Udemy
+* Issued April 2021
+
+### The Art of API Documentation
+* By Udemy
+* Issued April 2021
+
 ### Learn API Technical Writing 2: REST for writers
 * By Udemy
 * Issued April 2021
