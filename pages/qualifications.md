@@ -4,6 +4,14 @@
 
 ## Courses
 
+### DevOps, CI/CD for Beginners
+* By Udemy
+* Issued Aug 2023 
+
+### Crash Course on Python 
+* By Google Certificates, Coursera
+* Issued Aug 2022 
+
 ### Computational Thinking for Problem Solving
 * By PennState University, Coursera
 * Issued Jan 2022 
