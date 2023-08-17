@@ -13,7 +13,7 @@
         <li>GitLab, MarkDown, CI/CD, HTML, Confluence</li>
       </ul>
     </td>
-    <td><image alt="Nexon Korea" src="../assets/images/nexon-korea.jpg" /></td>
+    <td><image alt="Nexon Korea" src="../assets/images/nexon-korea.png" /></td>
   </tr>
   <tr>
     <td width="80%">
