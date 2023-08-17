@@ -2,19 +2,19 @@
 
 <h1 align="center">Experience</h1>
 <table>
-<!--   <tr>
+   <tr>
     <td width="80%">
-      <b>Software Engineer</b> | July 2022 - Present<br />
-      Votegrity<br />
+      <b>Technical Writer</b> | March 2023 - Present<br />
+      Nexon Korea<br />
       <ul>  
-        <li>Part time software development</li>
-        <li>Implementing functionality for election administration tool</li>
-        <li>Instantiated new virtual machine by upgrading existing software from scratch</li>
-        <li>React, JavaScript, Python, Azure, VS Code</li>
+        <li>Writing game development documentation</li>
+        <li>Converting existing documentation to MarkDown format</li>
+        <li>Supporting management of the English documentation site</li>
+        <li>GitLab, MarkDown, CI/CD, HTML, Confluence</li>
       </ul>
     </td>
-    <td><image alt="Votegrity" src="../assets/images/votegrity-branding-dark.jpg" /></td>
-  </tr> -->
+    <td><image alt="Nexon Korea" src="../assets/images/nexon-korea.jpg" /></td>
+  </tr>
   <tr>
     <td width="80%">
       <b>Technical Writer</b> | Jan 2022 - Present<br />
