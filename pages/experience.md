@@ -4,7 +4,20 @@
 <table>
    <tr>
     <td width="80%">
-      <b>Technical Writer</b> | March 2023 - Present<br />
+      <b>Technical Writer</b> | Apr 2024 - Present <br />
+      Rebellions<br />
+      <ul>  
+        <li>Writing Technical White Papers</li>
+        <li>Writing Product Brief and Datasheets</li>
+        <li>Maintaining terminology</li>
+        <li>GitHub, MarkDown, Confluence, Figma, Adobe</li>
+      </ul>
+    </td>
+    <td><image alt="Rebellions" src="../assets/images/rebellions.png" /></td>
+  </tr>
+   <tr>
+    <td width="80%">
+      <b>Technical Writer</b> | Mar 2023 - Apr 2024 <br />
       Nexon Korea<br />
       <ul>  
         <li>Writing game development documentation</li>
@@ -17,7 +30,7 @@
   </tr>
   <tr>
     <td width="80%">
-      <b>Technical Writer</b> | Jan 2022 - Present<br />
+      <b>Technical Writer</b> | Jan 2022 - Mar 2023 <br />
       Krust Universe<br />
       <ul>
         <li>Managed Klaytn Docs</li>
