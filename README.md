@@ -11,7 +11,7 @@
       <td>
         <ul>
           <li>jwkwak1002@gmail.com</li>
-          <li>https://www.linkedin.com/in/jiwon-kwak/</li>
+          <li><a href="https://www.linkedin.com/in/jiwon-kwak/" target="_blank">LinkedIn</a></li>
           <li><a href="./pages/links.md">Links</a></li>
         </ul>
       </td>
