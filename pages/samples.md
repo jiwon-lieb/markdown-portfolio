@@ -21,7 +21,7 @@
     - [Toward Ethereum Equivalence #1 — Introducing Klaytn v1.8.0](https://medium.com/klaytn/toward-ethereum-equivalence-1-introducing-klaytn-v1-8-0-971911be7ff9)
     - [Toward Ethereum Equivalence #2 — Changes in Precompiled Contract Addresses](https://medium.com/klaytn/toward-ethereum-equivalence-2-changes-in-precompiled-contract-addresses-a314d9db2927)
     - [Toward Ethereum Equivalence #3 — Supporting Ethereum APIs](https://medium.com/klaytn/toward-ethereum-equivalence-3-supporting-ethereum-apis-ab16f66008)
-    - [Toward Ethereum Equivalence #4](https://medium.com/klaytn/toward-ethereum-equivalence-4-ethereum-transaction-types-a5aefb18e5bf)
+    - [Toward Ethereum Equivalence #4 - Ethereum Transaction Types](https://medium.com/klaytn/toward-ethereum-equivalence-4-ethereum-transaction-types-a5aefb18e5bf)
 
 * Drafted/translated/published Release Notes
     * Samples
