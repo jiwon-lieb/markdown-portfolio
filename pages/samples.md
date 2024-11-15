@@ -7,6 +7,7 @@
 [White Paper: ATOM Architecture](https://rebellions.ai/wp-content/uploads/2024/07/ATOMgenAI_white-paper.pdf) | Jul 2024 <br>
 [White Paper: Rebellions Software Stack](https://rebellions.ai/wp-content/uploads/2024/08/WhitePaper_Issue2_ATOM_SoftwareStack.pdf) | Aug 2024 <br>
 [White Paper: Understanding RBLN Compiler](https://rebellions.ai/wp-content/uploads/2024/09/WhitePaper_Issue3_UnderstandingRBLNCompiler-3.pdf) | Oct 2024 <br><br>
+[White Paper: Rebellions Scalable Design](https://rebellions.ai/wp-content/uploads/2024/11/WhitePaper_Issue4_Rebellions_Scalable_Design-2.pdf) | Nov 2024 <br><br>
 
 [Article: Rebellions Delving Deeper into the AI Ecosystem](https://rebellions.ai/rebellions-delving-deeper-into-the-ai-ecosystem/) | Aug 2024 <br><br>
 [Article: Enhancing Serving and Application Performance of LLMs](https://rebellions.ai/enhancing-serving-and-application-performance-of-llms/) | Oct 2024
