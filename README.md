@@ -50,4 +50,6 @@
 - 🌐 **[2025 Resolution (HTML/CSS)](https://jiwon-lieb.github.io/my_page/)**  
   _Live project demonstrating HTML/CSS design and responsive layout skills_ 
 
+- 📚 **[My Translations](./pages/translations.md)**  
+  _Books I've translated from English, French, and Korean. (Despite being a German major, I haven't done any German books, yet)_  
 ---
