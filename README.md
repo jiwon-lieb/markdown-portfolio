@@ -33,13 +33,22 @@
 
 ---
 
-<h2>🛠️ Showcase</h2>
-<ul>
-  <li>🎓 <a href="./pages/education.md">Education</a></li>
-  <li>💼 <a href="./pages/experience.md">Experience</a></li>
-  <li>📝 <a href="./pages/samples.md">Samples</a></li>
-  <li>🛠️ <a href="./pages/qualifications.md">Skills & Qualifications</a></li>
-  <li>🌐 <a href="https://jiwon-lieb.github.io/my_page/"> 2025 Resolution (HTML/CSS) </a></li>
-</ul>
+<h2>🛠️ Portfolio</h2>
+**Explore my experience, technical writing samples, and interactive projects.**
+
+- 🎓 **[Education](./pages/education.md)**  
+  _Master's Degree in Interpretation and Translation_  
+
+- 💼 **[Experience](./pages/experience.md)**  
+  _Currently Technical Writer at Rebellions: AI hardware/software docs_  
+
+- 📝 **[Samples](./pages/samples.md)**  
+  _Samples of technical documentation for AI chip architecture, compiler tools, and hardware design_  
+
+- 🛠️ **[Skills & Qualifications](./pages/qualifications.md)**  
+  _Technical skills: HTML, CSS, Markdown, Git, REST APIs, Confluence, Python, and more_  
+
+- 🌐 **[2025 Resolution (HTML/CSS)](https://jiwon-lieb.github.io/my_page/)**  
+  _Live project demonstrating HTML/CSS design and responsive layout skills_ 
 
 ---
