@@ -28,13 +28,12 @@
 <ul>
   <li>📧 <a href="mailto:contact@jiwonkwak.co">contact@jiwonkwak.co</a></li>
   <li>🔗 <a href="https://www.linkedin.com/in/jiwon-kwak/" target="_blank">LinkedIn</a></li>
-  <li>🔗 <a href="./pages/links.md">Links</a></li>
 </ul>
 
 ---
 
 <h2>🛠️ Portfolio</h2>
-**Explore my experience, technical writing samples, and interactive projects.**
+<strong>Explore my experience, technical writing samples, and interactive projects.</strong>
 
 - 🎓 **[Education](./pages/education.md)**  
   _Master's Degree in Interpretation and Translation_  
