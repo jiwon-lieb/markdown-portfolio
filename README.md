@@ -39,7 +39,7 @@
   <li>💼 <a href="./pages/experience.md">Experience</a></li>
   <li>📝 <a href="./pages/samples.md">Samples</a></li>
   <li>🛠️ <a href="./pages/qualifications.md">Skills & Qualifications</a></li>
-  <li>🌐 <a href="https://jiwon-lieb.github.io/my_page/"> 2023 New Year Resolution (HTML/CSS) </a></li>
+  <li>🌐 <a href="https://jiwon-lieb.github.io/my_page/"> 2025 Resolution (HTML/CSS) </a></li>
 </ul>
 
 ---
