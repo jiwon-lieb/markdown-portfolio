@@ -1,6 +1,6 @@
 # Jiwon Kwak
 
-<img src="./assets/images/1710235569584.jpeg" alt="Jiwon Kwak Photo" width="300" style="border-radius: 50%; display: block; margin: 0 auto;">
+<img src="./assets/images/profile.jpg" alt="Jiwon Kwak Photo" width="300" style="border-radius: 50%; display: block; margin: 0 auto;">
 
 <h2 align="center">💡 About Me</h2>
 
