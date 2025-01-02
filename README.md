@@ -47,9 +47,28 @@
 - 🛠️ **[Skills & Qualifications](./pages/qualifications.md)**  
   _Technical skills: HTML, CSS, Markdown, Git, REST APIs, Confluence, Python, and more_  
 
+---
+
+### **🌟 Featured Project: MBTI Pep Talk API & Web App**
+- **Web App**: [GitHub Repo](https://github.com/jiwon-lieb/peptalk-app) | [Live Demo](https://peptalk.jiwonkwak.co/)  
+  **Tech Stack**: HTML, CSS, JavaScript, Netlify Deployment  
+  _A sleek, interactive app where users can choose their MBTI type and mood to receive personalized pep talks!_
+  
+- **API**: [GitHub Repo](https://github.com/jiwon-lieb/mbti_peptalk) | [API Live](https://api.peptalk.jiwonkwak.co/)  
+  **Tech Stack**: Node.js, Express.js, Netlify Functions (Serverless)  
+  _Custom-built API that powers the MBTI web app by delivering tailored advice for every mood and personality type._
+
+**✨ Highlights**:
+- Combined API development and web app creation for a seamless user experience.
+- Deployed with Netlify, demonstrating expertise in serverless architecture.
+- Showcases skills in backend, frontend, and deployment—my most ambitious project to date!
+
+---
+
 - 🌐 **[2025 Resolution (HTML/CSS)](https://jiwon-lieb.github.io/my_page/)**  
   _Live project demonstrating HTML/CSS design and responsive layout skills_ 
 
 - 📚 **[My Translations](./pages/translations.md)**  
   _Books I've translated from English, French, and Korean. (Despite being a German major, I haven't done any German books, yet)_  
 ---
+
